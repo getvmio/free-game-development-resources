@@ -1,5 +1,9 @@
 # Game Development Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 🎮 Level up your game development skills with our Game Dev Arena repository! Explore a comprehensive collection of free resources and a hands-on online playground covering various aspects of game design and programming. Perfect for aspiring game developers and interactive entertainment creators.
 
 ## Resources
